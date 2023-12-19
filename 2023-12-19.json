@@ -1,0 +1,26 @@
+{
+  "name": "Allie Mendez",
+  "age": 48,
+  "address": {
+    "street": "Jito Path",
+    "city": "Ohatju",
+    "state": "LA",
+    "zip": "42866"
+  },
+  "contact": {
+    "phone": "(873) 523-5245",
+    "servicePhone": "800526839"
+  },
+  "birthday": "2003-08-06T13:53:21.291Z",
+  "ip": "166.181.41.35",
+  "foo": "bar",
+  "profile": {
+    "about": "Gihsuci viluc cijvezjo juod bik et sudmeto nipmite ug akpestan jahpecje pu hamciv cizeij. Ewkes je pu iguto apferuc vi jiltaneh wuleh edwe el eka duw vam de wujhuh sag hahfak. Hu alu ic kuz ket vikca cimhuja rajma lolnilrit mej suvi bov be hafpeej. Towekiga irucup lefot mu hosopca oluicaaro ori bofjojhe ca sah nicobo gofjo fugiroj pij.",
+    "bio": "Ehowajto sed orriljas wozwuhuk nu gef erhi la pim jegfor heovala sukad bi. Cizwo ni zew wori jivgab vajipah pijimi fecoc ges ungeri afa pecepsez rababujig. Di ejsawo ukugo nepgilo ogodi guceszif raudo iwicokuc ikkuk welji asdid miwego zonwa kutosu oc izi. Alaperi ap tauboes vupkid ze ibo vahejufa let ob maoco nemkuzna vi ta owanus eji codtef ramnuh joel."
+  },
+  "apiKey": "d280cc9236c3a4d715a66b6f8dbd1e9b0bf9fd91724bb931b0b9c12676ef33e1",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
