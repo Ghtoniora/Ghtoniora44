@@ -1,0 +1,26 @@
+{
+  "name": "Marc Salazar",
+  "age": 30,
+  "address": {
+    "street": "Kibuv Point",
+    "city": "Kepvojep",
+    "state": "ID",
+    "zip": "18816"
+  },
+  "contact": {
+    "phone": "(273) 766-5913",
+    "servicePhone": "800813564"
+  },
+  "birthday": "1959-08-17T00:10:38.046Z",
+  "ip": "75.176.135.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Vepro lakme nuw wamewna loro zoanebu fev zi bifguc mu tolfesibu domgub bo ni esji faerigi cehure ipego. Nefwige eme zo desuk der zoloco cu de puma lo ehila olhi jo mas. Wasede kobaz zagola wuec sanjowe iju lejapan watof enarimge ho nepesanu garoud rezidlak gimo bopar wefdimil zijbav.",
+    "bio": "Sonuowe casut mi nu huepoj pofgeh wu ohe garso kega becuk inu ca dol zavnu jobkorpi wotrit. Buw nesenlew az powci zodbu ivodar siduli ete pefuztag za jiztofcil ezpice molug vubhos zihtadlid. Humsulli fir ijkuzav vuk nisotes zeod uzisohel fac fedoz wicgo cuwdif vunpiz ac fufe."
+  },
+  "apiKey": "48374397c12def661a51a6c52da587da3e5976f9ddc7092b7517fe5bfde03421",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
