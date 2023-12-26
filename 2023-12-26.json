@@ -1,0 +1,26 @@
+{
+  "name": "Cynthia McLaughlin",
+  "age": 43,
+  "address": {
+    "street": "Opumoc Plaza",
+    "city": "Mitzeke",
+    "state": "VA",
+    "zip": "24289"
+  },
+  "contact": {
+    "phone": "(418) 269-5256",
+    "servicePhone": "800472618"
+  },
+  "birthday": "1970-03-04T06:08:14.873Z",
+  "ip": "87.238.25.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Azves vi rugih bosoka wezwa gu siur fod fusnohu helu mifbis homivri makdacdul denu. Dorvo laf im joejopi ha ifovim rurrudo ureramu vicleg tebsa guwiri eci. Ceuzemo fec daj neja had za hihimad vuj fudof fezwi ik dorerhu torpeje ozile weredhak.",
+    "bio": "Zehiv pawanal kuzalu eja ja uckumowa da sekuhzu ove sod butnub amu. Jildimar jezofem tadu jonudi tugok nouduisi licbevud lufodal akif se bivadav asledmuz midap ut. Ohohow fir civve runogo arja simatu ji ku efzahhu mas ve utoomotam bellih cob dokceku cek kedhiwesi acaafkem."
+  },
+  "apiKey": "def088b843ae8d367005a55b9deb39fd2049185e18c8fef9b5d3253fec22a696",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
