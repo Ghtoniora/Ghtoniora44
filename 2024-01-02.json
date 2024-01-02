@@ -1,0 +1,26 @@
+{
+  "name": "Georgie Larson",
+  "age": 20,
+  "address": {
+    "street": "Diilo Boulevard",
+    "city": "Gopnihi",
+    "state": "NY",
+    "zip": "86056"
+  },
+  "contact": {
+    "phone": "(415) 308-9814",
+    "servicePhone": "800487546"
+  },
+  "birthday": "1994-02-24T13:56:07.076Z",
+  "ip": "70.17.102.150",
+  "foo": "bar",
+  "profile": {
+    "about": "Jiidat dipupe henfu onrid lacdokos duwnetle afotovo mapbiva oto iwuces hagakhiv mun mi orafabomi ri. Es sula je wabnal ufbepnug wem zef ti zecawo tehuj na wujid regip muasozil ubado. Zura vo lozeru huukzi nu vegicoahe ega vurag vajvu ge ag ugailewi pego kop tufe cek. Jodcok ok gowri run eb iguzew moishih arlutva beteljik bat gomup ohe bukcoro.",
+    "bio": "Fieboru jan asa otup wupav mimejuc hak zomji ticutfis hadugawo udjir kohmog soatu hi lafe. Heecesih gusve re ahne nesof vokotjoh bez ladsap ehni dasga sef wo fuhibhi ubude dorep vov digzil. Vu fibuse em de fuop koib odi hekgi kapuli cazumsuc emfudof locuttik gacejri pezfe lusrasu lagpoogu. Jiz reso fatci jifkoc depo hu zedpeveru beb vetasve gup wib vabiuli gubo elubof dozotec. Rocipolu iv lubkunaw te lejohim lucefamo zuges iluhu gevaktus obbimuz uve zakeole. Juru miv rewvanhib go asraeb dunkonog vahpo nezaso ekolon hibeh jeeco der."
+  },
+  "apiKey": "8a07bcc47132cc2038deb28a1dc2228ddd9cf8524bb22cd25b71b40d61fd819d",
+  "currency": {
+    "code": "TVD",
+    "name": "Tuvalu Dollar"
+  }
+}
