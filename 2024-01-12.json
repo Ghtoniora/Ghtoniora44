@@ -1,0 +1,26 @@
+{
+  "name": "Teresa Manning",
+  "age": 53,
+  "address": {
+    "street": "Ezudo Path",
+    "city": "Kiwekab",
+    "state": "KY",
+    "zip": "73045"
+  },
+  "contact": {
+    "phone": "(375) 566-3494",
+    "servicePhone": "800619877"
+  },
+  "birthday": "1964-09-18T03:53:47.985Z",
+  "ip": "110.74.171.218",
+  "foo": "bar",
+  "profile": {
+    "about": "Pushaf jo jodfati esu hoziw bezaja gej herzam did cim jozkev inodoses ubrudso ed ut er mitza uzo. Pemah tecil ra baducer unirudlal fekbiciv gew ece be isuejoik ma ofeni. Mikvulagu zodej egro akize leol zidulim vehzop bujnew bus ibizomsat tukub givceznag ge wutacto lojed boseje vosrilwe zeew.",
+    "bio": "Fadu vapot melifac otu iti pil hih wuhfuved le duvopaak taw geldid rauspi semamle onovukal ismuv ges. Momgum wiliba duvu wer hu mipude daduf hacin ze mirwiun ra cupa ged vir. Gim lenu gezi biellej un muho vup orane su la zu agugim ceelwu. Itewiil hogke runjun ige az lidivmi unihol mo diwihug ivla nasira howapel si gu linuso pudlujra co. Ku nasbarel circo jij bipo hubowkaf subin ti no nevwe tefuzi titgeji. Tad bugobudu bo savvut zumu uh egu cimuj baj vusezujer oskan ivnelfe ne mit. Piudan rof dapcug wef kab gufazvan ojzap iru hirjuj imo ujuhu sigulo."
+  },
+  "apiKey": "eb0db67176d85363b1767678c49eae3ee571c79c3395470e98dc6743815dd7b0",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
