@@ -1,0 +1,26 @@
+{
+  "name": "Brian Reese",
+  "age": 38,
+  "address": {
+    "street": "Juhes Boulevard",
+    "city": "Jenewug",
+    "state": "CA",
+    "zip": "62212"
+  },
+  "contact": {
+    "phone": "(612) 753-1379",
+    "servicePhone": "800592849"
+  },
+  "birthday": "1983-08-30T17:28:07.825Z",
+  "ip": "208.89.205.153",
+  "foo": "bar",
+  "profile": {
+    "about": "Mumudivar wokos ek lifwom pizezmuv vugub gu pud pu roseru vihri colbivfu kadzez wetza. Potgab bog no jov tiruz wesze owme volzar ihhu ubaheaj asbe la jaz. Mavumvoh gat momdok rukevto canij ufa har zoracafaw dugsin voc zuha wa. Ceukiziw cem zuvubug fet eb me avomupac mu kapow roeme fud cupopsu il vihiw erunugo. Nawaani icu mohoble iczubjoj ha lehsozcok elezatu pojil kizajku wijvip hoimru gudpugsef gan tuosega hebjo cem dizukmu. Baokla ibaluin bewrecbi lesan muwwico le bi jam bujogiwu na dudzim lohici. Rufu ihu eto gafadojo jusuni nilticmu icewuri hioze zeko wo wadkihi vak gupufuw awofiznu fanuk kav.",
+    "bio": "Mezmudtu sibpalaw pevkarev izejacwaz rogob lujno saftu reaha muw nil da zitzit. Popmi goedujug it wide adu ehsob bonuhhat velmefte zaw zu rabpaj cebipvi lofkivup bir cof bur nomo. Vowat zasjugije wagtokip pikmanuha hejodu ramtu sorimbul mahosib ivu puhu eneez pocfasi musuded gofsuref dejjeepi zi."
+  },
+  "apiKey": "a4cd5cab0e58ccc36c5f5acd94557924173be2da68cd5105ebea09801c884947",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
