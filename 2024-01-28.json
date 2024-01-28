@@ -1,0 +1,26 @@
+{
+  "name": "Caroline Nichols",
+  "age": 52,
+  "address": {
+    "street": "Ihmil Mill",
+    "city": "Garuniz",
+    "state": "GA",
+    "zip": "45846"
+  },
+  "contact": {
+    "phone": "(813) 474-1610",
+    "servicePhone": "800249981"
+  },
+  "birthday": "1982-01-19T17:53:45.844Z",
+  "ip": "61.93.103.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Koj hi rov tebkuvci aworer kasupi wouki wa vuwrev azi ali luomo. Boowo kaz consubsu ifani zovgojog wu uzida ro iggab raerjut runcolkac mofegpud boma mifko roulomeg wa. Igacoz cepsiego cu nanpus us folame dobfolur kullagfik sare wiedi urubes kewge nurahwe tujhuwemi nilfi rofcek kan.",
+    "bio": "Uloro waulo upi igwi hablaogo hibakpib fahe ufbas huaje kuuk efeha moz dubcine. Vekmaroc huarapeg va udzep tufutwuf da razawsu cudca idoefaiza amnep uj met bul si ega ur. Mosubpoj cijsek gomoja obcatde secvos kow omoil ze pih ragrud viwzames hezca gi. Jijzejbec dow monet lurdu hewjoh repoba ofdotok abpaniju cumsovino sahcifis keznol tofopces ri covu eficujwe. Ciwgesiza wenoz tansi ececes abzuk vabid eto ezopu mohi ilcan oci tiaw ome. Kipojrir ufi igikurlel po ocu nid tugescig je ciarpo zeg rugsogej cevojhit befbagfa kew."
+  },
+  "apiKey": "7603eba459c2483a150c37ed23959eb03cc73d7d4e081f5045f381474c74b60c",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
