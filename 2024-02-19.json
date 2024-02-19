@@ -1,0 +1,26 @@
+{
+  "name": "Jay Bates",
+  "age": 52,
+  "address": {
+    "street": "Nibsiv Trail",
+    "city": "Toavmig",
+    "state": "CT",
+    "zip": "81389"
+  },
+  "contact": {
+    "phone": "(367) 891-9454",
+    "servicePhone": "800445265"
+  },
+  "birthday": "1990-02-04T01:07:24.088Z",
+  "ip": "64.21.179.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Nut pogneskus wanokbi ev siz tus revuw jakkag vifnono iho bomula imusov. Gianweg vutic ni kak utihe kajuluobo jom mab teom tidu fatpev ge jov rojov gajdimej. Lib mawac lumooc gatew juptunan lahijo makuozi zuw wajej dev tunkogoz piz.",
+    "bio": "Cotgenhe ovzu wolemkuz tig ekwig heulhil ov cozwen zoasfe sagihuwam zacgu otde hewted ibozapebu wefjoji kuvol cewuhler loozu. Gep bavusfug zezagep mojwefme dagoh reha jaf ujvadluh gotuklow bunuci visficas ibi. Firindi fesso zazumker ic bomsutfe biuw merjiti ciw solme im sanzeol cijro zesa cub babwabag murcil. Seblondo serefsuc nut maprip uveacobu surle marmod gekisog ara ceoheru uzocuf dosuw."
+  },
+  "apiKey": "54409aeed66ec42b16d77fd49de12d526f7870f727dd9b501473bf1472e9b77d",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
