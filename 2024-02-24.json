@@ -1,0 +1,26 @@
+{
+  "name": "Birdie Tate",
+  "age": 55,
+  "address": {
+    "street": "Pavnet Heights",
+    "city": "Abbuulu",
+    "state": "MI",
+    "zip": "92225"
+  },
+  "contact": {
+    "phone": "(734) 637-2627",
+    "servicePhone": "800796439"
+  },
+  "birthday": "2000-05-24T23:24:38.307Z",
+  "ip": "137.8.217.63",
+  "foo": "bar",
+  "profile": {
+    "about": "Numbiwdih novak ku puje pum pahi lujjoc zitez pebem somtorweh tegusi okhazuh an im cemnavje fusoci dohfa nufowup. Vogom tusu acvadfa obu ketoive nomihiha ravpid pi cibakri li kogip siihemi olvasola falkaz. Hiz movvu rom durjusud atciku bo ga zieje malazva seeswe cusodlun paroj cezimtuk zofitwe seplo oktevkej julek ciniso.",
+    "bio": "Nut madawu mu natimlu huzdez uwo hal muscoj jemu ujos ziuclul susige ihozam dep nagfeegi. Vuijanuk naoc huzepe avosan hesif materi ruhraeva itjeaga cofipev bokin olove fimubzur kidgam alufi opjude carluh mibenaw. Ul ericakgup zino ilgab bike ja tum oj lapbajrug olo ze bad awaon."
+  },
+  "apiKey": "135f13bad1467c0906fd03dc25ec4d0cc69a0108457cbb1d5f450c363dd01667",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
