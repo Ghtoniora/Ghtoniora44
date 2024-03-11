@@ -1,0 +1,26 @@
+{
+  "name": "Billy Cortez",
+  "age": 50,
+  "address": {
+    "street": "Berid Pike",
+    "city": "Acnordeb",
+    "state": "ID",
+    "zip": "05067"
+  },
+  "contact": {
+    "phone": "(259) 820-3991",
+    "servicePhone": "800195184"
+  },
+  "birthday": "1984-08-19T11:24:05.522Z",
+  "ip": "189.75.88.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Tepdoroj jedok gip ceofa ipoiveke heclat jeom api demevde difig vucri vohun nanian ejkupa hit. Uze hal watgeos tohzu nidjizeh an ubodit raomu keh rej codwug uboop zuvetre elumoipo cew va. Maep pi mamaf owituide cebetdow pinvurlo nutpodtuh kohvuffe dibognu pa kezejo wuwfi me nuski wid loub fawmig. Sejnip zudlatut ope receg ecmoj balavig ahaaha zevumanaj va pofipkin befo ih rutnufapu.",
+    "bio": "Pogo jasikek uwego ubeehuw tunibof viv sakgeto viretav miwrir vicim ore dadsaodu ugej dokad fuvhe ipinikfos. Sulme fi huhpolti tioveof tude samovo su etoba rine rafdekwac ocnis tijzeb elwa rokwi. Latojma fil eliheeso dir riwjis usi penca zaludki zepu disrovtok vof fiamaten. Sud ve vamcov guka wo ruv kah lodudele vegirlo sovwimi vinna dut gatem rok. Zekokar rukvenuk azo mizhov zi lawutge ma ujo cikor la isidil omelago pozhomka agu fez komduf kacauci."
+  },
+  "apiKey": "e425f5fd5c5ee7ffd4b323a00adfcb99f30e85e42909578039f9a3352fc9b74f",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
