@@ -1,0 +1,26 @@
+{
+  "name": "Eddie Lee",
+  "age": 27,
+  "address": {
+    "street": "Cobi Drive",
+    "city": "Sokuig",
+    "state": "WY",
+    "zip": "02332"
+  },
+  "contact": {
+    "phone": "(956) 449-4503",
+    "servicePhone": "800895752"
+  },
+  "birthday": "1972-07-11T07:01:15.052Z",
+  "ip": "126.246.177.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Zumku omepiz pew ejer um pijozfi biabeh nutoza wufkor ne fejeg se. Wus binza eja vofzod mubbul va zol et pidbilo juhir dilo hewu amge huz ba rifwicid. Keg tero bugipjot pip jo gi vicligu dentiso cerop bejni mosi cikaf se movef si. Fo idi aj vufgo bepizbu nucomeror os atanu aplu ropkevel upufenu paflakil tijdin metujoc. Afkip conaj ume ogcu awesevez pakvarafa duwup nakroleb nubda bachefada wo uri bab seir bulviwhu cueheah.",
+    "bio": "Mifamuza et it rowel oruaf gago numlup ij vudfirmiz teffi gavtum coc jadi ziwfoh. Johjab li siraje wohuam ez sa male pobazo lobmuf bo aw uwonegpis tidseku. Hom ca lam fi piwur po sonur lawla guk ofo efe komib zivog. Ih pig cer woluah owwis inelaz sez cobrolwe midaznik fieso oguoleef osmekfu bagu ohi veh pan tov. Korusmuc siwda vibo avikazho begfozin gos mi seh ezte zar ocpoago avlevzip wepkuzsu hew."
+  },
+  "apiKey": "3e995c4aab01cbc7f4d4aa3d4fe45233edc4eaeb76d48d5d47640695b01f497d",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
