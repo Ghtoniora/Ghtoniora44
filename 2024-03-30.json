@@ -1,0 +1,26 @@
+{
+  "name": "Grace Singleton",
+  "age": 41,
+  "address": {
+    "street": "Musig Plaza",
+    "city": "Ranuson",
+    "state": "NH",
+    "zip": "39497"
+  },
+  "contact": {
+    "phone": "(771) 337-6719",
+    "servicePhone": "800349876"
+  },
+  "birthday": "1989-05-01T18:08:01.745Z",
+  "ip": "102.99.83.92",
+  "foo": "bar",
+  "profile": {
+    "about": "Kimoz laesre vovzi zeku amtu lukjihaw tujeh zo pa rulokiwa do uroga ni ira bohod pe renca. Rezpu mebrov busav owraparo hajok wurav vi jowajbe wic basaciwu bit ruli ovaoha la sukil kijuovo ki. Opugoko nibku lapfoil ipokev licjuh nu onuf gujhozri wo rewuat dakuku ugahu.",
+    "bio": "Lut lagora zedotavak ariwiska febfazmo louj oc aneoh sa zop tagujoozo suegaru cacvo. Zadiv coeju bulus rosudki cavi nefvewe cu nuife depdulla veledzi tugo goevfeg. Wofvipup wo ezcu peuveug duw livlu gok celcekonu rinze se dur dibikak wo izozaslu honokosu je wobwiwek. Be iw ki ecivesne av heheshol tinoce fuos tihdokva ram lo mok jonsur odpu lemsune jihsib cukweton ruwe. Zapku horjilej lizo lasego ukono turuvim oda lod pesu jiewe zat hucukgan je nezhew ki ker ot dad. Big fatwu one juzbepmi wivu cihsev linne cartesoc ive ogtujhe dafuak ris demwugmaw. Inifutu sa zike habmatjof eleliuni om jolmeh pu depid da hen tunovtus nasgu wulep je wotji."
+  },
+  "apiKey": "6bfaa54c7fb676d1821df6a81889371b477b0aed81da4c142f0c40a0cdec881c",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
